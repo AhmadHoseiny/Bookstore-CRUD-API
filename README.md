@@ -9,7 +9,6 @@ It supports the following operations:
 - Update a Book by ID
 - Delete a Book by ID
 
-___
 
 ## Tools
 
@@ -17,7 +16,6 @@ The API is connected to a MySQL database and uses the following libraries:
 - [Gorm](https://gorm.io/)
 - [Gorilla Mux](https://github.com/gorilla/mux)
 
-___
 
 ## How to run
 1. Clone the repository
